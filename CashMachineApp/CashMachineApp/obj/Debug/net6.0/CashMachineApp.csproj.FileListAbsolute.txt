@@ -1,0 +1,15 @@
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\bin\Debug\net6.0\CashMachineApp.exe
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\bin\Debug\net6.0\CashMachineApp.deps.json
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\bin\Debug\net6.0\CashMachineApp.runtimeconfig.json
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\bin\Debug\net6.0\CashMachineApp.dll
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\bin\Debug\net6.0\CashMachineApp.pdb
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\obj\Debug\net6.0\CashMachineApp.csproj.AssemblyReference.cache
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\obj\Debug\net6.0\CashMachineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\obj\Debug\net6.0\CashMachineApp.AssemblyInfoInputs.cache
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\obj\Debug\net6.0\CashMachineApp.AssemblyInfo.cs
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\obj\Debug\net6.0\CashMachineApp.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\obj\Debug\net6.0\CashMachineApp.dll
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\obj\Debug\net6.0\refint\CashMachineApp.dll
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\obj\Debug\net6.0\CashMachineApp.pdb
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\obj\Debug\net6.0\CashMachineApp.genruntimeconfig.cache
+C:\Users\yusuf.mahamed\source\repos\CashMachineApp\CashMachineApp\obj\Debug\net6.0\ref\CashMachineApp.dll
